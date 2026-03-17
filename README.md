@@ -95,3 +95,11 @@ Fingers close → Low volume
 Fingers far apart → High volume
 
 
+## Notes
+
+- Works best in good lighting
+- Requires a webcam
+- Optimized for single-hand detection
+
+
+
