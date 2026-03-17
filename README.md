@@ -91,6 +91,7 @@ Press Q to quit the application.
 The volume is controlled by the distance between the thumb and index finger:
 
 Fingers close → Low volume
+
 Fingers far apart → High volume
 
 
