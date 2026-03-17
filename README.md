@@ -72,3 +72,25 @@ Run the project
 python main.py
 ```
 Press Q to quit the application.
+
+
+## Gesture Controls
+
+| Gesture              | Action         |
+| -------------------- | -------------- |
+| Fist                 | STOP           |
+| Open hand            | PAUSE          |
+| Thumb up             | PLAY           |
+| Thumb + Index        | OK             |
+| Peace (2 fingers)    | Animation      |
+| Rock (index + pinky) | Visual effects |
+
+
+## Volume Control 
+
+The volume is controlled by the distance between the thumb and index finger:
+
+Fingers close → Low volume
+Fingers far apart → High volume
+
+
